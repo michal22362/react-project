@@ -1,0 +1,60 @@
+@keyframes background-image{
+    0% {
+        background-image: url('/src/images/general/ImageHome.webp');
+        background-size: cover;
+        background-position: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+    }
+
+    50% {
+        background-image: url('/src/images/general/ImageHome.webp');
+        background-size: cover;
+        background-position: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+    }
+
+    100% {
+        background-image: url('/src/images/general/imageHome2.webp');
+        background-size: cover;
+        background-position: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+    }
+}
+
+.background-image {
+    animation: background-image 8s infinite;
+}
+
+.title1 {
+    margin-top: 20%;
+    font-family: perpetua;
+    font-weight: bolder;
+    color: white;
+    font-size: 70px;
+}
+
+.learnMore {
+    margin-top: 2%;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-weight: lighter;
+    border-color: #FFFFFF;
+    border-radius: 0%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: 150%;
+}

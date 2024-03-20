@@ -1,0 +1,45 @@
+.order>ul>li {
+    color: white;
+    padding: 3%;
+    border: #806e43 solid;
+    border-radius: 10px;
+    font-size: 22px;
+    height: 500px;
+    text-align: right;
+}
+
+.deleteMeeting {
+    background-color: transparent;
+    border: transparent;
+}
+
+.deleteMeeting:hover {
+    border: none;
+}
+
+.edit {
+    background-color: transparent;
+    margin-top: -20%;
+    border: transparent;
+}
+
+.edit:hover {
+    border: none;
+}
+
+.order>ul {
+    flex-direction: column;
+}
+
+.order>#btn-orders{
+    margin: 10px;
+    background-color: #fff;
+    color: #806e43;
+}
+
+.inputsForEdit{
+    font-size: 15px;
+    width: 110px;
+    height: 100px;
+    margin-right: -200px;
+}

@@ -1,0 +1,142 @@
+h1{
+    font-family: perpetua;
+    color: white;
+    font-weight: bolder;
+    font-size: 65px;
+}
+h2{
+    font-family: Montserrat;
+    background-color: #C5AA66;
+    opacity: 65%;
+}
+
+p{
+    color: white;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+#part_1{
+    margin-top: 200px;
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
+
+body{
+    background: url('/src/images/general/background.webp');
+}
+
+#images_part1{
+    margin-top: 10%;
+}
+
+#images_part1>img{
+    padding: 10px;
+}
+#tn2{
+    margin-top: -31%;
+}
+
+#tn4{
+    margin-top: -95%;
+}
+
+#tn5{
+    margin-top: -100%;
+    margin-right: 50%;
+}
+
+#tn9{
+    margin-top: -38%;
+    margin-right: 50%;
+}
+
+#images_part2{
+    margin-top: 8%;
+}
+
+#images_part2>img{
+    padding: 10px;
+}
+
+#gn1{
+    margin-top: -25%;
+}
+
+#gn5{
+    margin-top: -50%;
+}
+
+#gn4{
+    margin-top: -25%;
+    margin-left: 50% ;
+}
+
+#part_3{
+    margin-top: 8%;
+}
+
+#images_part3{
+    margin-top: 10%;
+}
+
+#images_part3>img{
+    padding: 10px;
+}
+
+#part_4{
+    margin-top: 8%;
+}
+
+#images_part4{
+    margin-top: 8%;
+}
+
+#images_part4>img{
+    padding: 10px;
+}
+
+#sh1{
+    margin-top: -28%;
+}
+
+#sh3{
+    margin-top: -28%;
+    margin-left: 50%;
+}
+
+#part_5{
+    margin-top: 8%;
+}
+
+#images_part5{
+    margin-top: 10%;
+}
+
+#images_part5>img{
+    padding: 10px;
+}
+
+#part_6{
+    margin-top: 8%;
+}
+
+#images_part6{
+    margin-top: 10%;
+}
+
+#images_part6>img{
+    padding: 10px;
+}
+
+#be2{
+    margin-top: -37%;
+}
+
+#be3{
+    margin-top: -40%;
+    margin-right: 50%;
+}

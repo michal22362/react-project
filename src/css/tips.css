@@ -1,0 +1,14 @@
+.tip{
+    margin-top: 15%;
+    background-color: #C5AA66;
+    color:#33373d;
+    opacity: 65%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.imgTip{
+    width: 80%;
+    height: auto;
+}
